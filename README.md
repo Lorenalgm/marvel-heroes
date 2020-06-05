@@ -31,7 +31,7 @@
 * [Compartilhe](#compartilhe)
 
 # Devchallenge
-<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador!
+<a href="https://devchallenge.now.sh/"> DevChallenge</a> permite que você evolua suas skills como programador! Participe da nossa <a href="https://discord.gg/yvYXhGj">comunidade</a> o/
 
 # Desafio
 Seu desafio é criar um aplicativo listando os personagens da Marvel, com suas informações, habilidades e filmes! O modelo final está disponível na pasta "design"
@@ -48,10 +48,10 @@ React Native, Vue Native, Flutter ou a linguagem que você preferir :)
 4 - Compartilhe seu resultado com a comunidade! Se puder, mostre seus resultado aqui no repositório também, criando uma Issue :)<br>
 
 # Requisitos:
-- Seu app deve conter uma tela inicial onde irá listar os personagens divididos por heróis, vilões, anti-heróis, alieníginas e humanos<br>
+- Seu app deverá conter uma tela inicial onde irá listar os personagens divididos por heróis, vilões, anti-heróis, alieníginas e humanos<br>
 - O usuário poderá visualizar mais personagens arrastando o dedo para o lado (como um carrossel)<br>
 - Ao clicar em um personagem, deverão ser exibidas informações sobre a vida, habilidades e filmes na qual esse personagem esteve<br>
-- Seu app deve se parecer o mais próximo possível ao modelo que está disponível na pasta "design"<br>
+- Seu app deverá se parecer o mais próximo possível ao modelo que está disponível na pasta "design"<br>
 
 # Dicas
 ## Dados
@@ -59,7 +59,7 @@ Para listar os dados, você pode utilizar o arquivo application.json, disponíve
 Ou se preferir, pode buscar os dados na API na Marvel, dá uma olhadinha na documentação: https://developer.marvel.com/
 
 ## Cores:
-<b>Primárias</b>
+<b>Primárias</b></br>
 $primary-red - #F2264B</br>
 $primary-dark - #313140</br>
 $primary-grey - #B7B7C8</br>

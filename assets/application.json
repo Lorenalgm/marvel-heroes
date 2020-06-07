@@ -163,7 +163,7 @@
 		{
 			"name": "Duende Verde",
 			"alterEgo": "Norman Osborn",
-			"imagePath": "./chars/green-goblit.png",
+			"imagePath": "./chars/green-goblin.png",
 			"biography": "Filho do rico empresário Amberson Osborn, Norman foi vítima de abuso quando o pai perdeu seu dinheiro e se tornou alcóolatra e violento, o que iniciou suas tendências homicidas e o desejo de ser um chefe de família melhor. Norman estudou química, administração e engenharia elétrica na faculdade, onde conheceu sua futura esposa Emily, mãe de seu filho Harry Osborn. Após formar, Norman se uniu a seu professor Mendel Stromm para fundar a empresa química Oscorp, que logo o tornaria milionário de novo, porém quando Emily morre Norman fica abalado a ponto de focar mais e mais no trabalho, neglicenciando a criação do filho.",
 			"caracteristics": {
 				"birth": "1974",

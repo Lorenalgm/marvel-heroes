@@ -60,21 +60,10 @@ Ou se preferir, pode buscar os dados na API na Marvel, dá uma olhadinha na docu
 
 ## Cores:
 <b>Primárias</b></br>
-$primary-red - #F2264B</br>
-$primary-dark - #313140</br>
-$primary-grey - #B7B7C8</br>
-$primary-silver - #F8F8F8</br>
-
-<b>Gradientes</b></br>
-$gradient-blue - from #005BEA to #00C6FB</br>
-$gradient-red - from #ED1D24 to #ED1F69</br>
-$gradient-purple - from #B224EF to #7579FF</br>
-$gradient-green - from #0BA360 to #3CBA92</br>
-$gradient-pink - from #FF7EB3 to #FF758C</br>
-$gradient-red - from #ED1D24 to #ED1F69</br>
-$gradient-red - from #ED1D24 to #ED1F69</br>
-$gradient-red - from #ED1D24 to #ED1F69</br>
-$gradient-red - from #ED1D24 to #ED1F69</br>
+primary-red - #F2264B</br>
+primary-dark - #313140</br>
+primary-grey - #B7B7C8</br>
+primary-silver - #F8F8F8</br>
 
 ## Modelo:
 O modelo final está disponível na pasta `./design` e também no figma da umpontoseis: https://www.figma.com/community/file/849367817302905364<br>
@@ -88,17 +77,7 @@ Os ícones estão disponíveis na pasta  `./assets > icons`
 
 ## Tipo de fonte:
 <b>Gilroy</b><br>
-A fonte está disponível na pasta  `./assets > fonts`</br>
-- Profile title = 40px/heavy</br>
-- Home title    = 32px/heavy</br>
-- Card title = 20px/heavy</br>
-- Section title = 18px/bold</br>
-- Profile subtitle = 16px/medium</br>
-- Home subtitle = 14px/semibold</br>
-- Description = 14px/medium</br>
-- Caracteristics =  12px/medium</br>
-- Ability = 12px/regular</br>
-- Card subtitle = 10px/medium</br>
+A fonte está disponível na pasta  `./assets > fonts`
 
 # Compartilhe!
 Inicie seu projeto utilizando esse template no seu github como um repositório público<br>

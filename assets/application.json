@@ -99,7 +99,39 @@
 				"./movies/avengers-3.jpg",
 				"./movies/avengers-4.jpg"
 			]
-		}
+		},
+		{
+			"name": "Viúva Negra",
+			"alterEgo": "Natasha Romanoff",
+			"imagePath": "./chars/viuva-negra.png",
+			"biography": "Natasha Romanoff foi treinada desde jovem para cultivar um conjunto muito específico de habilidades em uma instalação russa chamada Sala Vermelha. Lá, ela aprimorou as habilidades que a transformariam em uma guerreira humana. ",
+			"caracteristics": {
+				"birth": " 1928",
+				"weight": {
+					"value": 78,
+					"unity": "kg"
+				},
+				"height": {
+					"value": 1.80,
+					"unity": "meters"
+				},
+				"universe": "Terra 616"
+			},
+			"abilities": {
+				"force": 70,
+				"intelligence": 75,
+				"agility": 90,
+				"endurance": 70,
+				"velocity": 80
+			},
+			"movies": [
+				"./movies/iron-man-2.jpg",
+				"./movies/avengers-1.jpg",
+				"./movies/avengers-3.jpg",
+				"./movies/avengers-4.jpg",
+				"./movies/black-window.jpg",
+			]
+		},
 	],
 	"villains": [
 		{
